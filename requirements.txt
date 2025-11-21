@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+# Optional (install only if you want model-based generation):
+# transformers
+# torch
+# Optional for improved translation:
+# googletrans
